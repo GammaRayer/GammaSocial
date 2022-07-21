@@ -1,0 +1,2 @@
+# GammaSocial
+Decentralized Socialmedia platform
